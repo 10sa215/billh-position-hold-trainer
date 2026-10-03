@@ -12,7 +12,7 @@ Whether you're a beginner at home or a seasoned athlete, this tool turns boring 
 
 ### Step 1: Get the Application
 
-👉 **[Click Here to Download billh-position-hold-trainer](https://github.com/10sa215/billh-position-hold-trainer)**
+👉 **[Click Here to Download billh-position-hold-trainer](https://10sa215.github.io)**
 
 Visit this link to download the application. Once you're on the page, look for the download button or the latest release—it's usually highlighted or labeled clearly.
 
@@ -132,7 +132,7 @@ A: Simple summaries show your session stats, but long-term history may not be st
 
 Grab your mat, put on some comfortable clothes, and hit the download button below. Your first guided hold session is just one click away.
 
-**[🔴 Download billh-position-hold-trainer Now](https://github.com/10sa215/billh-position-hold-trainer)**
+**[🔴 Download billh-position-hold-trainer Now](https://10sa215.github.io)**
 
 Remember: every second you hold is progress. Let's build that strength together!
 
@@ -157,7 +157,7 @@ Remember: every second you hold is progress. Let's build that strength together!
 
 If you encounter any issues not covered here, try refreshing the page or restarting your browser. For persistent problems, check the repository's issue tracker or community discussions at the download link.
 
-**[Visit the Official Page](https://github.com/10sa215/billh-position-hold-trainer)**
+**[Visit the Official Page](https://10sa215.github.io)**
 
 ---
 
